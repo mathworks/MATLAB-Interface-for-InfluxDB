@@ -1,4 +1,4 @@
-# Getting Started with InfluxDB Http Interface in MATLAB®
+# Getting Started with MATLAB® Interface for InfluxDB
 
 ## Description
 
