@@ -6,6 +6,7 @@ This interface allows users to import data from influxDB v2 server to MATLAB® a
 ## System Requirements
 
 - MATLAB R2025a or later
+- Database Toolbox R2025a or later
 
 ## Features
 
