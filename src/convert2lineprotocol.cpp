@@ -5,7 +5,7 @@
 #include <string>
 #include <cmath>
 
-# Copyright 2024 - 2025 The MathWorks, Inc.
+//# Copyright 2024 - 2025 The MathWorks, Inc.
 
 using namespace matlab::data;
 
